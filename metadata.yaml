@@ -1,0 +1,44 @@
+_repo: Pflanzenleben-in-Feld-und-Garten_69524
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Kriete, Fritz
+    alias: Kriete, Fritz Wilhelm Gustav‏
+    birthdate: 1858
+    gutenberg_agent_id: '50253'
+    url: http://www.gutenberg.org/2009/agents/50253
+  - agent_name: Rabes, O. (Otto)
+    alias: Rabes, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '50254'
+    url: http://www.gutenberg.org/2009/agents/50254
+creator:
+  author:
+    agent_name: Buckley, Arabella B. (Arabella Burton)
+    alias: Fisher, Arabella Burton Buckley
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '1854'
+    url: http://www.gutenberg.org/2009/agents/1854
+    wikipedia: https://en.wikipedia.org/wiki/Arabella_Buckley
+description: ''
+gutenberg_issued: '2022-12-11'
+identifiers:
+  gutenberg: '69524'
+language: de
+pgterms:marc904: http://resolver.staatsbibliothek-berlin.de/SBB0000D38B00030000
+pgterms:marc905: 20180602023034buckley
+pgterms:marc906: '1910'
+pgterms:marc907: de
+production_note: Peter Becker, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (The digitized holdings of the Staatsbibliothek zu
+  Berlin are available to all interested parties worldwide free of charge for non-commercial
+  use.)
+publication_note: 'Germany: Hermann Gesenius,1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pflanzenleben in Feld und Garten
+url: http://www.gutenberg.org/ebooks/69524
