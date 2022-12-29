@@ -12,6 +12,9 @@ contributor:
     birthdate: 1873
     gutenberg_agent_id: '50254'
     url: http://www.gutenberg.org/2009/agents/50254
+covers:
+- cover_type: archival
+  image_path: 69524-h/images/cover.jpg
 creator:
   author:
     agent_name: Buckley, Arabella B. (Arabella Burton)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1854
     wikipedia: https://en.wikipedia.org/wiki/Arabella_Buckley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69524#Pflanzenleben-in-Feld-und-Garten
 gutenberg_issued: '2022-12-11'
 identifiers:
   gutenberg: '69524'
